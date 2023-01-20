@@ -1,4 +1,4 @@
-# blind-date
+# Blind-date
 
 # Description
 ---
