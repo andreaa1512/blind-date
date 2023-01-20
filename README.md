@@ -6,3 +6,4 @@
 
 
 ### [Start Here](start-here.md)
+### Click [here](plan.md)to see the plan for this CYOA
