@@ -1,5 +1,5 @@
 # Location
 Time to start getting ready, but first choose your location!
 
-### [Mountains](location/mountains.md)
+### [Mountains](mountains.md)
 ### [Restaurant](restaurant.md)
