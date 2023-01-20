@@ -1,1 +1,0 @@
-[Link for diagram](https://docs.google.com/drawings/d/16AithnpxSqY0E0ijNCWajIZVOMd9nP_q_tMUWADyKto/edit)

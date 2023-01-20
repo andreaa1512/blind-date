@@ -1,3 +1,0 @@
-Male
-Female
-Non-Binary
