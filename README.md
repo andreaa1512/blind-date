@@ -2,7 +2,7 @@
 
 # Description
 ---
-### For this project, he had to creat our own adventure with a partner by using what we know about Git and Github. We had to brainstorm ideas, choose the main idea you want to create, and work on it.
+### For this project, we had to creat our own adventure with a partner by using what we know about Git and Github. We had to brainstorm ideas, choose the main idea you want to create, and work on it.
 
 
 ### [Start here](start.md)
