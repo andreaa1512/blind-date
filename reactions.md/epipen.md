@@ -1,1 +1,0 @@
-# Congratulations!! You survived the allergic reaction!!!
